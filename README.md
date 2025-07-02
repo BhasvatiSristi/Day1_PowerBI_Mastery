@@ -23,13 +23,6 @@ This project helped me practice:
 
 ---
 
-## 🗂️ Project Files
-- `.pbix` file (Power BI Desktop file)
-- Sample dataset used (if available)
-- Dashboard screenshot(s)
-
----
-
 ## 💡 What I Learned
 - How to create and manage **Bookmarks**
 - Practical dashboard design techniques
